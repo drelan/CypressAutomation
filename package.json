@@ -1,0 +1,22 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "description": "Cypress Automation project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drelan/CypressAutomation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drelan/CypressAutomation/issues"
+  },
+  "homepage": "https://github.com/drelan/CypressAutomation#readme",
+  "devDependencies": {
+    "cypress": "^14.1.0"
+  }
+}
